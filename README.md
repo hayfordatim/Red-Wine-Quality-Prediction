@@ -42,3 +42,49 @@ The columns(properties) present are:
 - Alcohol
 - Quality
 
+### Data Preparation
+
+In the data preparation section, I meticulously processed the Wine Quality-Red dataset to ensure its suitability for machine learning. I began by importing essential Python libraries, such as NumPy, Pandas and Sklearn, and loaded the dataset into a Pandas DataFrame. After examining the data's shape and structure, I conducted a preliminary analysis to identify and handle any missing values as well as duplicates. 
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-4.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s1.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-6.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s2.png)
+
+
+### Exploratory Data Analysis
+
+In the exploratory data analysis (EDA) phase, I delved deeper into the Wine Quality-Red dataset to uncover valuable insights and patterns. Employing libraries like Matplotlib and Seaborn, I visualized the data's characteristics. Diverse plots and histograms were created to better understand the distribution of each feature. Through these visualizations, I observed the relationships between attributes and the quality of the wines, shedding light on potential correlations and trends. Additionally, statistical summaries and descriptive statistics were used to provide a comprehensive overview of the data's central tendencies and dispersions. This EDA process played a pivotal role in guiding my model development and feature selection.
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-7.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s4.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-8.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s5.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-9.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s6.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-10.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s7.png)
+
+### Maching Learning Modeling
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-11.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-12.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-13.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-14.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-15.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s8.png)
