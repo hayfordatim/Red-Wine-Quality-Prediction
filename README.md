@@ -1,5 +1,6 @@
 # Red Wine Quality Prediction
 
+![wine](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/Wine%20Image.jpeg)
 
 
 ### Project Overview
@@ -42,3 +43,63 @@ The columns(properties) present are:
 - Alcohol
 - Quality
 
+### Data Preparation
+
+In the data preparation section, I meticulously processed the Wine Quality-Red dataset to ensure its suitability for machine learning. I began by importing essential Python libraries, such as NumPy, Pandas and Sklearn, and loaded the dataset into a Pandas DataFrame. After examining the data's shape and structure, I conducted a preliminary analysis to identify and handle any missing values as well as duplicates. 
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-4.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s1.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-6.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s2.png)
+
+
+### Exploratory Data Analysis
+
+In the exploratory data analysis (EDA) phase, I delved deeper into the Wine Quality-Red dataset to uncover valuable insights and patterns. Employing libraries like Matplotlib and Seaborn, I visualized the data's characteristics. Diverse plots and histograms were created to better understand the distribution of each feature. Through these visualizations, I observed the relationships between attributes and the quality of the wines, shedding light on potential correlations and trends. Additionally, statistical summaries and descriptive statistics were used to provide a comprehensive overview of the data's central tendencies and dispersions. This EDA process played a pivotal role in guiding my model development and feature selection.
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-7.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s4.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-8.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s5.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-9.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s6.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-10.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s7.png)
+
+### Machine Learning Modeling
+
+The machine learning modeling phase involved the implementation of a Random Forest Classifier to predict wine quality based on the preprocessed data. I utilized scikit-learn library to create the model and train it with the training dataset. The Random Forest Classifier, an ensemble of decision trees, demonstrated its effectiveness in capturing complex relationships between wine attributes and quality. By fitting the model to the training data, we enabled it to learn and make predictions. The use of this model enabled us to achieve a remarkable accuracy score. The Random Forest Classifier's ability to handle large datasets and maintain predictive accuracy makes it an ideal choice for this task, providing robust and reliable results for wine quality assessment.
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-11.png)
+
+#### Data Splitting to Train and Test Dataset
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-12.png)
+
+#### Model Fitting
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-13.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-14.png)
+
+#### Acuracy Score
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/carbon-15.png)
+
+![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s8.png)
+
+#### Conclusion
+With a score 0.88235294117 implies that our model could do a prediction with an accuracy of 88%. This score is good hence making our model a strong one to be used to predict the quality of wine taking into consideration the various properties as stated earlier.
+
+### Detail Analysis
+
+Kindly click [wine quality prediction](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Wine%20Quality%20Prrdiction.ipynb) to view the full analysis.
