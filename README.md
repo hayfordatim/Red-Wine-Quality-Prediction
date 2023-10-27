@@ -98,7 +98,9 @@ The machine learning modeling phase involved the implementation of a Random Fore
 ![data](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Images/s8.png)
 
 #### Conclusion
-With a score 0.88235294117 implies that our model could do a prediction with an accuracy of 88%. This score is good hence making our model a strong one to be used to predict the quality of wine taking into consideration the various properties as stated earlier.
+
+This project has provided valuable insights into the prediction of wine quality based on various chemical attributes. Through thorough data analysis and the implementation of a Random Forest Classifier model, we achieved an impressive accuracy rate of 88%, demonstrating the model's effectiveness in categorizing wines as good or poor quality. The project showcased the importance of data preprocessing, exploratory data analysis, and machine learning in solving real-world problems. This work serves as a foundation for understanding how machine learning can be applied in the domain of wine quality assessment, and the results could be beneficial for both wine enthusiasts and the wine production industry."
+
 <br><br>
 ### Detail Analysis
 
