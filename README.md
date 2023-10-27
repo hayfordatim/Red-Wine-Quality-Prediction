@@ -102,4 +102,6 @@ With a score 0.88235294117 implies that our model could do a prediction with an 
 
 ### Detail Analysis
 
-Kindly click [wine quality prediction](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Wine%20Quality%20Prrdiction.ipynb) to view the full analysis.
+Kindly click [wine quality prediction](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Wine%20Quality%20Prediction.ipynb) to view the full analysis.
+
+## Thank You :)
