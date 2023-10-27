@@ -6,6 +6,7 @@
 ### Project Overview
 
 This project is dedicated to classifying wine quality into poor or good. The primary objective is to employ machine learning to classify wine quality based on various chemical parameters. By following data analysis, preprocessing, model training, and evaluation, we aim to provide insights into the factors influencing wine quality ratings, enabling users to make informed quality assessments for red wines.
+Kindly click [wine quality prediction](https://github.com/hayfordatim/Red-Wine-Quality-Prediction/blob/main/Wine%20Quality%20Prediction.ipynb) to view the full analysis. 
 
 
 ### Key Objective
